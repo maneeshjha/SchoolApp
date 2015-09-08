@@ -7,6 +7,6 @@
 <title>Just checking in</title>
 </head>
 <body>
-Trying to pull changes from Git. checking it again.Here we go
+Trying to pull changes from Git. checking it again.Here we go.Again
 </body>
 </html>
